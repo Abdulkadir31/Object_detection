@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Crack Img trial 1_18032019</folder>
+	<filename>IMG_20190314_144024.jpg</filename>
+	<path>E:\LUKMAN MANSURI\My Research\Crack Detection Trial 1 18032019\Crack Img trial 1_18032019\IMG_20190314_144024.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1047</xmin>
+			<ymin>710</ymin>
+			<xmax>1143</xmax>
+			<ymax>1794</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>934</xmin>
+			<ymin>1794</ymin>
+			<xmax>1109</xmax>
+			<ymax>3056</ymax>
+		</bndbox>
+	</object>
+</annotation>
